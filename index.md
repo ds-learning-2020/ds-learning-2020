@@ -4,7 +4,7 @@ Ever wondered what might influence the pricing of a listing on Airbnb? When it m
 
 Or, why all companies prefer to continue collecting seemingly endless amounts of data? Well, it's mostly so that they can answer questions like the ones above. 
 
-In this quick post, I will aim to do the same. Airbnb, through [Kaggle](www.kaggle.com) and as part of their Inside Initiative, released a [dataset]https://www.kaggle.com/airbnb/seattle/data) describing listings in Seattle. 
+In this quick post, I will aim to do the same. Airbnb, through [Kaggle](www.kaggle.com) and as part of their Inside Initiative, released a [dataset](https://www.kaggle.com/airbnb/seattle/data) describing listings in Seattle. 
 
 I have analyzed the data, and aim to answer three questions based off of it below.
 
