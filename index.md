@@ -21,6 +21,8 @@ Some of us like to plan our travels well in advance, and sometimes knowing how t
 
 But wait! Before deciding on a month to travel to save some money, let's look at the distribution of the average prices. We can see that for some months the difference in prices might not be that drastic. 
 
-<img src="images/seattle_q1.png" alt="Ques1" class="inline"/>
+<p align="center">
+  <img src="images/seattle_q1.png" alt="Ques1" class="inline">
+</p>
 
 Looking at the above, January and February might be your best options to save some money. 
