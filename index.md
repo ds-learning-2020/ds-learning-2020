@@ -1,1 +1,1 @@
-<img src="images/seattle.png" alt="Seattle" class="inline"/>
+<img src="images/seattle.jpg" alt="Seattle" class="inline"/>
