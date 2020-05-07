@@ -1,1 +1,1 @@
-## My Data Science Journey (2020)
+<img src="images/seattle.png" alt="Seattle" class="inline"/>
